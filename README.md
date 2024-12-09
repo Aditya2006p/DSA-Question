@@ -15,7 +15,8 @@ This repository contains end-term exam questions for the Data Structures and Alg
 3. [Exam Questions](#exam-questions)
 4. [Contributing](#contributing)
 5. [License](#license)
-6. [How to Run](#how-to-run)
+6. [Prerequisites](#prerequisites)
+7. [How to Run](#how-to-run)
 
 ## Introduction
 
