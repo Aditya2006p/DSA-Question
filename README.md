@@ -1,40 +1,74 @@
-# C Search and Sort Algorithms
+# DSA End Term Exam Questions - B.Tech 3rd Semester
 
-This repository contains C programs that implement various **search algorithms** and **sorting techniques**. The key algorithms implemented include:
+This repository contains end-term exam questions for the Data Structures and Algorithms (DSA) course for B.Tech 3rd Semester students at **Graphic Era Hill University**. The topics covered in this repository include:
 
-- **Linear Search**
-- **Binary Search**
-- **Sorting Algorithms**:
-  - Bubble Sort
-  - Selection Sort
-  - Insertion Sort
-  - Merge Sort
-  - Quick Sort
+- **Array**
+- **Linked List**
+- **Sorting Techniques**
+- **Searching Techniques**
+- **Trees and Graphs**
 
-These algorithms are demonstrated through user-friendly C programs that allow input of an array of elements and perform either **Linear Search** or **Binary Search** on them. The program also provides sorting methods and allows sorting the array before performing a Binary Search.
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Topics Covered](#topics-covered)
+3. [Exam Questions](#exam-questions)
+4. [How to Use](#how-to-use)
+5. [Contributing](#contributing)
+6. [License](#license)
+
+## Introduction
+
+This repository serves as a compilation of end-term exam questions and practice problems to help B.Tech 3rd-semester students prepare for their DSA exam. The questions are structured around the core topics of the course, providing a well-rounded understanding of the subject.
+
+## Topics Covered
+
+### 1. **Array**
+   - Basic operations on arrays (insertion, deletion, searching)
+   - Array manipulation problems (reverse, rotate, etc.)
+   - Multi-dimensional arrays and their applications
+
+### 2. **Linked List**
+   - Single, double, and circular linked lists
+   - Operations on linked lists (insertion, deletion, traversal, reversal)
+   - Merging and splitting linked lists
+   - Detecting cycles in a linked list
+
+### 3. **Sorting Techniques**
+   - Bubble Sort, Selection Sort, Insertion Sort
+   - Merge Sort, Quick Sort, Heap Sort
+   - Time and Space complexity analysis of sorting algorithms
+
+### 4. **Searching Techniques**
+   - Linear Search, Binary Search
+   - Time complexity analysis
+   - Searching in rotated sorted arrays
+
+### 5. **Trees and Graphs**
+   - Binary Trees, Binary Search Trees
+   - Tree traversal techniques (Pre-order, In-order, Post-order)
+   - Graph representation (Adjacency Matrix, Adjacency List)
+   - Graph traversal techniques (BFS, DFS)
+
+## Exam Questions
+
+The repository includes a set of end-term exam questions based on the aforementioned topics, which may include:
+
+- **Theory Questions**: Concepts and theory behind various data structures and algorithms.
+- **Practical Questions**: Code-based problems that test your ability to implement and use various data structures and algorithms.
+- **Problem Solving**: Questions that involve applying DSA concepts to solve real-life problems.
+
+## Contributing
+
+Contributions are welcome! If you would like to contribute to this repository, please fork it and submit a pull request. You can help improve this repository by adding more exam questions, providing solutions, or enhancing the explanations for each topic.
+
+## License
+
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ---
 
-## Features
-
-1. **Linear Search**: 
-   - Scans through the entire array to find the target element.
-   - Time Complexity: O(n), where `n` is the number of elements in the array.
-   - Space Complexity: O(1).
-
-2. **Binary Search**:
-   - Works on **sorted arrays** and repeatedly divides the array in half to locate the target element.
-   - Time Complexity: O(log n), where `n` is the number of elements in the array.
-   - Space Complexity: O(1).
-   - The program automatically sorts the array if Binary Search is selected.
-
-3. **Sorting Algorithms**:
-   - **Bubble Sort**: Repeatedly compares adjacent elements and swaps them if they are in the wrong order.
-   - **Selection Sort**: Repeatedly selects the smallest (or largest) element and swaps it into the correct position.
-   - **Insertion Sort**: Builds the sorted array one element at a time.
-   - **Merge Sort**: Divides the array into halves and merges them back in sorted order.
-   - **Quick Sort**: Selects a pivot element and partitions the array around the pivot.
-
+Feel free to explore and use the materials in this repository for your exam preparation.
 ---
 
 ## Prerequisites
