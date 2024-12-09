@@ -51,4 +51,4 @@ Before running the program, make sure you have:
 
 To use the program, first clone the repository to your local machine:
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/aditya2006p/DSA-Question.git
